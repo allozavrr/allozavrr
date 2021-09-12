@@ -1,3 +1,5 @@
+![alt text](https://github.com/allozavrr/Screenshots/blob/main/Go%2BJurrasic%2BLogo%2BFINAL.png "logo")
+
 - 👋 Hi, I’m @allozavrr
 - ✈️ I’m interested in science, aviation and space 🚀
 - 💻 I’m currently learning networking, cybersec, Linux, Python and Go ✨ 
