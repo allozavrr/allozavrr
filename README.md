@@ -1,4 +1,4 @@
-![alt text](https://github.com/allozavrr/Screenshots/blob/main/Go%2BJurrasic%2BLogo%2BFINAL.png "Hello, this is me!")
+![alt text](https://github.com/allozavrr/Screenshots/blob/main/planet-outer-space-solar-system-milky-way-wallpaper-png-favpng-VgF8dxXuWZ8rfcrPKbMP3KZsf.jpeg "Hello, this is me!")
 
 - 👋 Hi, I’m @allozavrr
 - ✈️ I’m interested in science, aviation and space 🚀
