@@ -5,4 +5,5 @@
 - 💻 I’m currently learning networking, cybersec, Linux, Python and Go ✨ 
 - 📫 How to reach me: https://github.com/allozavrr
 
-[![allozavrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=allozavrr)](https://github.com/anuraghazra/github-readme-stats)
+[![allozavrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=allozavrr)](https://github.com/anuraghazra/github-readme-stats?username=anuraghazra&show_icons=true&theme=dark)
+
