@@ -6,4 +6,4 @@
 - 📫 How to reach me: https://github.com/allozavrr
 
 ![allozavrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=allozavrr&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allozavrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
