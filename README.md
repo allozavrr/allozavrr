@@ -7,7 +7,6 @@
 
 ### My Github Stats:
   
-![allozavrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=allozavrr&show_icons=true&layout=compact&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allozavrr&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="![allozavrr's GitHub stats]><img align="center" src="https://github-readme-stats.vercel.app/api?username=allozavrr&show_icons=true&layout=compact&theme=dark" alt="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allozavrr&show_icons=true&layout=compact&theme=dark)]><img align="center" src="https://github.com/anuraghazra/github-readme-stats"
   
 
