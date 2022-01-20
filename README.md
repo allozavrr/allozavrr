@@ -4,7 +4,7 @@
 - ✈️ I’m interested in science, aviation and space 🚀
 - 💻 I’m currently learning networking, cybersec, Linux, Python and Go ✨ 
 - 📫 How to reach me: https://github.com/allozavrr
-- :smirk_cat: ![My favourite GitHub hage] (https://github.com/advisories)
+- :smirk_cat: <a href="https://github.com/advisories">My favourite GitHub page</a>
 
 ### My learning & Tools:
 
